@@ -1,7 +1,3 @@
-👌 明白啦，我帮你整理成 **完整 Markdown 格式** 的 `README.md` 文件，你可以直接复制粘贴放到项目根目录。
-
----
-
 ````markdown
 # 🔮 玄学助手 (Fortune Assistant)
 
